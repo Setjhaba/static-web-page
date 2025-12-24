@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tan;
+    margin: 50px;
+    border: 70px;
+    
+
+}
+
+h1 {
+    color: gray;
+}
+
+h2 {
+    color: slategrey;
+    font-size: 20px;
+}
+
+p {
+    color: beige;
+    background-color: black;
+    margin-top: 30px
+    ;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    padding: 15px;
+}
